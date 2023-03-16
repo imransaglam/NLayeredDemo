@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.dll.config
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.dll
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.pdb
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.Entities.dll
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.Entities.pdb
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.dll
+C:\Users\ASUS\source\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.pdb
